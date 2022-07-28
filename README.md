@@ -6,12 +6,12 @@ Use this toolchain to avoid some errors => https://github.com/Micoder-dev/honor7
 
 ### Steps to compile.
 
-1-> export ARCH=arm64
-2-> export SUBARCH=arm64
-3-> export CROSS_COMPILE=<path to toolchain 4.9>/bin/aarch64-linux-android-
-4-> make O=../out merge_msm8953_64_defconfig
-5-> make O=../out menuconfig
-6-> make O=../out CONFIG_NO_ERROR_ON_MISMATCH=y
+1-> export ARCH=arm64 </br>
+2-> export SUBARCH=arm64 </br>
+3-> export CROSS_COMPILE=<path to toolchain 4.9>/bin/aarch64-linux-android- </br>
+4-> make O=../out merge_msm8953_64_defconfig </br>
+5-> make O=../out menuconfig </br>
+6-> make O=../out CONFIG_NO_ERROR_ON_MISMATCH=y </br>
 
 that's it your compilation begins...
 
