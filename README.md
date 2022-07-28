@@ -23,5 +23,5 @@ As honor7c doesn't have a BOOT.img so don't try to search the boot image file th
 
 ### Custom Kernerls
 
-I have compiled a Nethunter Kernel for Huawei Honor 7C you can flash it by following the above steps
+I have compiled a Nethunter Kernel for Huawei Honor 7C you can flash it by following the above steps </br>
 Nethunter Kernel => https://github.com/Micoder-dev/Honor7c_Nethunter_kernel.git
